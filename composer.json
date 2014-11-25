@@ -5,7 +5,7 @@
     },
     "autoload": {
         "psr-4": {
-            "VIALA\\MandatoryValidations\\": "src"
+            "Mickawell\\MandatoryValidations\\": "src"
         }
     },
     "config": {
